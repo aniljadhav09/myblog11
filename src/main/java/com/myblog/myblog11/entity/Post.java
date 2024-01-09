@@ -17,8 +17,4 @@ public class Post {
     private String title;
     private String description;
     private String content;
-
-    public Post(Long id) {
-        this.id = id;
-    }
 }
